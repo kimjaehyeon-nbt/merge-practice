@@ -1,3 +1,3 @@
 # merge-practice
 
-"main branch"
+I'm develop branch, now.
